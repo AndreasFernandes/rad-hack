@@ -324,13 +324,13 @@ Armas maiores e mais mortais causam  **Dano Explosivo** - se a rolagem do dado d
 
 ## Fogo Automático
 
-Armas totalmente automatizadas, como SMGs e Metralhadoras, dão ao jogador a opção de usar o ** Fogo Automático **. Primeiro role o "Dado de Qualidade" da arma e anote seu resultado - você pode fazer uma quantidade de ataques sequenciais igual ao valor obtido no "Dado de Qualidade", depois de atingir esse valor a arma emperra e o jogador para de atirar. Consertar uma arma que está emperrada em combate leva um momento. Não se esqueça que o ** Fogo Automatico ** usa um "Chumbo" por ataque feito.
+Armas totalmente automatizadas, como SMGs e Metralhadoras, dão ao jogador a opção de usar o **Fogo Automático**. Primeiro role o "Dado de Qualidade" da arma e anote seu resultado - você pode fazer uma quantidade de ataques sequenciais igual ao valor obtido no "Dado de Qualidade", depois de atingir esse valor a arma emperra e o jogador para de atirar. Consertar uma arma que está emperrada em combate leva um momento. Não se esqueça que o **Fogo Automatico** usa um "Chumbo" por ataque feito.
 
 ## Qualidade do Equipamento & Degradação 
 
-Sempre que armas e armaduras forem encontradas ou prestes a serem compradas, role um ** d8 ** na tabela abaixo para ver qual é seu ** Dado de Qualidade **. O GM aumentará ou diminuirá o custo do equipamento em 5-20 Chumbos, dependendo da sua qualidade. 
+Sempre que armas e armaduras forem encontradas ou prestes a serem compradas, role um **d8** na tabela abaixo para ver qual é seu **Dado de Qualidade**. O GM aumentará ou diminuirá o custo do equipamento em 5-20 Chumbos, dependendo da sua qualidade. 
 
-Ao rolar um ** 20 ** no teste de ataque ou ao causar ** dano máximo ** com uma Arma corpo a corpo, teste o ** Dado de Qualidade ** correspondente para ver se a arma se rompe. Ao rolar um ** 20 ** no teste de ataque com uma Arma de Longo Alcance, teste o ** Dado de Qualidade ** correspondente para ver se a arma se rompe. Ao rolar um ** 20 ** em um teste defensivo, teste o ** Dado de Qualidade ** para ver se a armadura quebra. O equipamento pode ser reparado usando ** Sucata** e testando ** INT **. Um teste bem sucedido aumenta o ** Dado de Qualidade ** em um passo, até um máximo de D8. Sempre que o equipamento for usado de maneiras que possam prejudicá-lo, teste o ** Dado de Qualidade **.
+Ao rolar um **20** no teste de ataque ou ao causar **dano máximo** com uma Arma corpo a corpo, teste o **Dado de Qualidade** correspondente para ver se a arma se rompe. Ao rolar um **20** no teste de ataque com uma Arma de Longo Alcance, teste o **Dado de Qualidade** correspondente para ver se a arma se rompe. Ao rolar um **20** em um teste defensivo, teste o **Dado de Qualidade** para ver se a armadura quebra. O equipamento pode ser reparado usando **Sucata** e testando **INT**. Um teste bem sucedido aumenta o **Dado de Qualidade** em um passo, até um máximo de D8. Sempre que o equipamento for usado de maneiras que possam prejudicá-lo, teste o **Dado de Qualidade**.
 
 
 | Resultado | Dado de Qualidade |
