@@ -38,9 +38,13 @@ Todo novo personagem começa com **Chumbo** com o qual pode comprar seu equipame
 ## Humano
 
 **PV Inicial :** d8+4
+
 **PV Por Nível/Descansando :** 1d8
+
 **Dado de radiação:** d8
+
 **Armas & Armaduras :** Corpo-a-corpo: Até armas Pesadas e Distância: Até armas Médias, ou o contrário. Qualquer Armadura e qualquer Escudo.
+
 **Dano por Ataque :** 1d8 se Armado, 1d6 se Desarmado ou Improvisando.
 
 ### Profissão
@@ -50,6 +54,7 @@ Humanos iniciam o jogo com uma **Profissão** selecionada de forma aleatória qu
 ### Características Especiais
 
 **Elitista:** Humanos sempre têm vantagem em testes de CAR contra Mutantes em locais dominados por humanos.
+
 **Controlar Robô:** Um Humano pode utilizar uma ação para tentar Controlar um Robô Próximo testando seu CAR e adicionando o HD do alvo à rolagem.
 
 ### Subindo de nível
@@ -61,19 +66,25 @@ Role para ver se os atributos aumentam, role duas vezes para **FOR** e **DES**. 
 ## Mutante
 
 **PV Inicial :** d6+4
+
 **PV Por Nível/Descansando :** 1d6
+
 **Dado de radiação:** d10
+
 **Armas & Armaduras :** Corpo-a-corpo: Até armas Médias, Distância: Todas se DES for maior que força, ou o contrário se FOR for maior que DES. Escolha se houver empate. Até Armaduras Médias, Escudos Pequenos.
+
 **Dano por Ataque :** 1d6 se Armado, 1d4 se Desarmado ou Improvisando.
 
 ### Mutações
 
 Mutantes iniciam o jogo com 2 **Mutações** escolhidas de forma aleatória e um **Dado de Habilidade** de d4. Esse dado é renovado após um descanso longo. Para utilizar uma **Mutação**, primeiro teste o atributo que corresponde ao que está tentando fazer. Depois role o **Dado de Habilidade** para testar se ele cai um nível.
+
 **Mutações Reativas (R)** podem ser acionadas ainda que não seja o turno do jogador alvo, e conta como uma ação livre. Jogadores são encorajados a serem criativos no uso de suas **Mutações** fazendo-as mais fortes, alterando seus efeitos, etc. Dependendo da potência do efeito, tais testes podem ter **Desvantagem**. Se um 20 é rolado quando usar uma **Mutação**, a **Mutação** pode alterar a aparência do Mutante permanentemente, ter o efeito contrário, alvejar um aliado, etc.
 
 ### Características Especiais
 
 **Adaptativo:** Quando subir de nível, um Mutante pode intercambiar dois atributos.
+
 **Acostumado ao Brilho:** Mutantes expostos a Radiação rolam seu **Dado de Radiação** com **Vantagem**.
 
 ### Subindo de nível
@@ -85,8 +96,11 @@ Role para ver se os atributos aumentam. Role 1d6 para determinar qual atributo p
 ## Robô
 
 **PV Inicial :** d10+4
+
 **PV Por Nível/Descansando :** 1d10 (Robôs usam **Sucata** para se auto-reparar ao invés de descansar)
+
 **Armas & Armaduras :** Qualquer Arma, Armadura e Escudo pré-apocalípticos.
+
 **Dano por Ataque :** 1d6 se Armado, 1d4 se Desarmado ou Improvisando.
 
 ### Módulos
@@ -96,6 +110,7 @@ Robôs começam o jogo com dois **Módulos** de sua escolha e um **Dado de Habil
 ### Características Especiais
 
 **Mecânico:** Robôs são imutes a todos os venenos e radiação. Eles não necessitam de ar, comida, água ou sono.
+
 **Pele de metal:** Robôs têm 2 AP.
 
 ### Subindo de nível
@@ -107,9 +122,13 @@ Role para ver se os atributos aumentam. Decida qual atributo será rolado duas v
 ## Psiônico
 
 **PV Inicial :** d4+4
+
 **PV Por Nível/Descansando :** 1d4
+
 **Dado de radiação:** d10
+
 **Armas & Armaduras :** Armas leves de Corpo-a-Corpo ou à Distância e Armaduras Leves.
+
 **Dano por Ataque :** 1d4 se Armado, 1 se Desarmado ou Improvisando.
 
 ### Poderes psiônicos
@@ -119,6 +138,7 @@ Psiônicos começam o jogo com dois **Poderes Psiônicos** selecionados de forma
 ### Características Especiais
 
 **Fortitude Mental:** Role com **Vantagem** quando realizar testes para evitar danos por fontes Psiônicas.
+
 **Precognição:** Psiônicos podem escolher rolar uma jogada novamente uma vez por sessão e vazem isso com **Vantagem**.
 
 ### Subindo de nível
@@ -275,7 +295,7 @@ Se um personagem usa uma armadura que não está listada em sua classe, adiciona
 | Sucata                      | 10     | -         | Reparar componente.                    |
 | Isqueiro                    | 5      | d6        | -                                      |
 | Tochas (6)                  | 1      | d6        | Cada tocha tem um Dado de uso.         |
-| Birita                      | 10     | d4        | Pode ser usado como Combústivel        |
+| Birita                      | 10     | d4        | Pode ser usado como Combustível        |
 | Vinho                       | 5      | -         | -                                      |
 | Ervas sortidas              | 10     | d8        | -                                      |
 | Vara de 3 metros            | 1      | -         | -                                      |
@@ -285,49 +305,52 @@ Se um personagem usa uma armadura que não está listada em sua classe, adiciona
 
 | Arma       | Custo | Exemplo                                  | Notas                                                                |
 |:--------------|:-----|:-----------------------------------------|:--------------------------------------------------------------------------------|
-| Light Melee   | 15   | Knife, Shiv, Iron Pipe                   | Close Range.                                                                    |
-| Medium Melee  | 25   | Junk-Sword, Baseball Bat, Machete        | Nearby range.                                                                   |
-| Heavy Melee   | 100  | Two-Handed Sword, Fire Axe, Sledgehammer | Exploding damage.                                                               |
-| Tech Melee    | *    | Vibro Dagger, Energy Axe, Stun Whip      | *                                                                               |
-| Light Ranged  | 25   | Slingshot, Bow and Arrow, Crossbow       | Ammo is plentiful and easy to come by. Nearby range.                            |
-| Medium Ranged | 50   | Handgun, Rifle, SMG**                    | Uses Slugs as ammo. Up to Far-away range.                                       |
-| Heavy Ranged  | 150  | Machine Gun**, Sniper Rifle, Shotgun     | Deals exploding damage. Ranges from Nearby (Shotgun) to Distant (Sniper Rifle). |
-| Tech Ranged   | *    | Riot Pistol, Needler, Laser Rifle        | *                                                                               |
+| Leve   | 15   | Faca, Barra de Ferro, Navalha                  | Alcance PERTO.                                                                    |
+| Média   | 25   | Espada de Sucata, Bastão de Baseball, Machete        | Alcance PRÓXIMO.                                                                   |
+| Pesada   | 100  | Espada de duas mãos, Machado, Marreta | Dano explosivo.                                                               |
+| Tecnologica    | *    | "Vibro Dagger", Machado de Energia, Chicote de atordoamento      | *                                                                               |
+| Leves (a distância)  | 25   | Estilingue, Arco e flecha, Besta       | Munição é abundante e fácil de encontrar. Alcance PRÓXIMO.                            |
+| Média (a distância) | 50   | Revólver, Rifle, SMG**                    | Usa "Chumbo" como munição. Alcance LONGE.                                       |
+| Pesada (a distância)  | 150  | Metalhadoras**, Sniper Rifle, Escopeta     | Causa dano explosivo. Varia de alcance PRÓXIMO (Escopeta) a LONGE (Sniper Rifle)
+. |
+| Tecnologica (a distância)   | *    | Pistola de choque, Pistola de Flecha, Laser Rifle        | *                                                                               |
 
-\* Read more about Tech equipment in the Tech section.
-\*\* Read more about Full Auto Fire below.
+\* Leia mais sobre equipamentos tecnológicos na seção Tech.
+\*\* Leia mais sobre Fogo Automático abaixo.
 
-## Heavy weapons
+## Armas Pesadas
 
-Larger, more deadly weapons are handled by having them deal **Exploding Damage** - if the damage roll shows the highest possible result, reroll that die and add the result to the damage total. A die might explode again and again dealing more damage. Don’t forget that this is also the case for enemies wielding powerful weapons.
+Armas maiores e mais mortais causam  **Dano Explosivo** - se a rolagem do dado de dano sair um valor mais alto possível (Ex: 6 no D6), role novamente o dado de dano e adicione o resultado ao total de dano obtido. Um dado pode explodir de novo e de novo causando mais dano. Não se esqueça de que essa regra tambem é aplicada em inimigos empunhando armas pesadas.
 
-## Full auto fire
+## Fogo Automático
 
-Fully automated guns, such as SMGs and machine guns give the player the option to use **Full Auto Fire**. First roll the quality die for the weapon and note its result - you can make that many attacks with this weapon in a row, until it jams and you have to stop shooting. Fixing a gun that is jammed when in combat takes a moment. Don’t forget that **Full Auto Fire** uses one Slug per attack made.
+Armas totalmente automatizadas, como SMGs e Metralhadoras, dão ao jogador a opção de usar o ** Fogo Automático **. Primeiro role o "Dado de Qualidade" da arma e anote seu resultado - você pode fazer uma quantidade de ataques sequenciais igual ao valor obtido no "Dado de Qualidade", depois de atingir esse valor a arma emperra e o jogador para de atirar. Consertar uma arma que está emperrada em combate leva um momento. Não se esqueça que o ** Fogo Automatico ** usa um "Chumbo" por ataque feito.
 
-## Equipment quality & degradation
+## Qualidade do Equipamento & Degradação 
 
-Whenever weapons and armor is found or about to be bought, roll a **d8** on the table below to see what its **Quality Die** is. The GM will increase or decrease the cost of equipment by 5-20 Slugs, depending on its quality. When rolling an attack roll of **20** or when dealing **maximum damage** with a Melee Weapon, test the corresponding **Quality Die** to see if the weapon breaks. When rolling an attack roll of **20** with a Ranged Weapon, test the corresponding **Quality Die** to see if the weapon breaks. When rolling a **20** on a defensive roll, test the corresponding **Quality Die** to see if the armor breaks. Equipment can be repaired by using **Scrap** and testing **INT**. A successful test increases the **Quality Die** by one step, to a maximum of D8. Whenever equipment is used in ways that could harm it, test the **Quality Die**.
+Sempre que armas e armaduras forem encontradas ou prestes a serem compradas, role um ** d8 ** na tabela abaixo para ver qual é seu ** Dado de Qualidade **. O GM aumentará ou diminuirá o custo do equipamento em 5-20 Chumbos, dependendo da sua qualidade. 
+
+Ao rolar um ** 20 ** no teste de ataque ou ao causar ** dano máximo ** com uma Arma corpo a corpo, teste o ** Dado de Qualidade ** correspondente para ver se a arma se rompe. Ao rolar um ** 20 ** no teste de ataque com uma Arma de Longo Alcance, teste o ** Dado de Qualidade ** correspondente para ver se a arma se rompe. Ao rolar um ** 20 ** em um teste defensivo, teste o ** Dado de Qualidade ** para ver se a armadura quebra. O equipamento pode ser reparado usando ** Sucata** e testando ** INT **. Um teste bem sucedido aumenta o ** Dado de Qualidade ** em um passo, até um máximo de D8. Sempre que o equipamento for usado de maneiras que possam prejudicá-lo, teste o ** Dado de Qualidade **.
 
 
-| Result | Quality die |
+| Resultado | Dado de Qualidade |
 |:------:|:-----------:|
 |  1-3   |     d4      |
 |  4-5   |     d6      |
 |  6-7   |     d8      |
 |   8    |     d10     |
 
-## Converting saves
+## Convertendo Jogadas de Proteção
 
-The Rad-Hack ignores saves and instead asks the player to roll attribute **tests** when any environment hazard, trap or potentially harmful effect would impact them - using the table below as a guide.
+The Rad-Hack não possui jogadas de proteção. Ao invés disso, o jogador deve rolar um teste de atributo quando algum perigo no ambiente, armadilha ou efeito tiver impacto sobre o personagem utilizando as diretrizes abaixo.
 
-|                  STR                   |                 DEX                 |                 CON                  |
+|                  FOR                   |                 DES                 |                 CON                  |
 |:--------------------------------------:|:-----------------------------------:|:------------------------------------:|
-| Physical Harm that *cannot* be dodged. | Physical Harm that *can* be dodged. | Poison, Disease, Radiation or Death. |
+| Dano físico impossível de esquivar.	 | Dano físico passível de esquiva. | Veneno, Doença, Radiação ou Morte. |
 
-|        INT         |           WIS            |        CHA        |
+|        INT         |           SAB            |        CAR        |
 |:------------------:|:------------------------:|:-----------------:|
-| Psionic abilities. | Deception and Illusions. | Charming effects. |
+| Habilidades Psiônicas. | Enganação e Ilusões. | Efeitos de manipulação. |
 
 ## Player's turn
 
